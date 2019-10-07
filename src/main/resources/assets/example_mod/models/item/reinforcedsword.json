@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "example_mod:items/reinforced_sword"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 4,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Reinforce A Sword",
+    "achievementDescription": "You reinforced a diamon sword",
+    "achievementIcon": {
+      "value": "CUSTOM:ReinforcedSword"
+    },
+    "achievementType": "task",
+    "parent": {
+      "value": "story/mine_diamond"
+    },
+    "locx": 0,
+    "locy": 0
+  }
+}

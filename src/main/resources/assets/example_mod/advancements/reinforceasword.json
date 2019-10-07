@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "item": "example_mod:reinforcedsword"
+    },
+    "title": {
+      "translate": "advancements.reinforceasword.title"
+    },
+    "description": {
+      "translate": "advancements.reinforceasword.descr"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "reinforceasword": {
+      "trigger": "reinforceasword"
+    }
+  },
+  "parent": "minecraft:story/mine_diamond"
+}
